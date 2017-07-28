@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MetroLine", "MetroLine\MetroLine.vcxproj", "{FD411E38-6374-4A8A-AB1E-785D168779DA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CellularDistance", "CellularDistance\CellularDistance.vcxproj", "{EE14CCD1-5D14-4DD3-875D-A28FC485E299}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SongFilter", "SongFilter\SongFilter.vcxproj", "{2AD75F47-049C-4650-A314-E61124071073}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD411E38-6374-4A8A-AB1E-785D168779DA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FD411E38-6374-4A8A-AB1E-785D168779DA}.Debug|Win32.Build.0 = Debug|Win32
+		{FD411E38-6374-4A8A-AB1E-785D168779DA}.Release|Win32.ActiveCfg = Release|Win32
+		{FD411E38-6374-4A8A-AB1E-785D168779DA}.Release|Win32.Build.0 = Release|Win32
+		{EE14CCD1-5D14-4DD3-875D-A28FC485E299}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EE14CCD1-5D14-4DD3-875D-A28FC485E299}.Debug|Win32.Build.0 = Debug|Win32
+		{EE14CCD1-5D14-4DD3-875D-A28FC485E299}.Release|Win32.ActiveCfg = Release|Win32
+		{EE14CCD1-5D14-4DD3-875D-A28FC485E299}.Release|Win32.Build.0 = Release|Win32
+		{2AD75F47-049C-4650-A314-E61124071073}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2AD75F47-049C-4650-A314-E61124071073}.Debug|Win32.Build.0 = Debug|Win32
+		{2AD75F47-049C-4650-A314-E61124071073}.Release|Win32.ActiveCfg = Release|Win32
+		{2AD75F47-049C-4650-A314-E61124071073}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
